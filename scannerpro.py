@@ -10,9 +10,9 @@ CONFIG_FILE = "config.txt"
 IP_FILE = "ip-in.txt"
 OUTPUT_FILE = "outputconfigs.txt"
 
-NEW_PORT = 40443
+NEW_PORT = 443
 
-BATCH_SIZE = 500
+BATCH_SIZE = 512
 
 # چند ثانیه فرصت برای فوکوس کردن پنجره V2RayN
 FOCUS_DELAY = 5
